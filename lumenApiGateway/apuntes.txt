@@ -1,0 +1,13 @@
+https://github.com/dusterio/lumen-passport
+
+php artisan passport:install
+Personal access client created successfully.
+Client ID: 1
+Client secret: p0tLzu5IQD3iCjIAJwWr7MwNCTjuQzqmMDBzaAzu
+Password grant client created successfully.
+Client ID: 2
+Client secret: 6FeqhN4QWBymXSpygoHsS2HlA4JM47E5VynuWkNE
+
+
+# para realizar todo desde cero
+php artisan migrate:fresh --seed
